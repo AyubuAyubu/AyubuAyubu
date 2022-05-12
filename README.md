@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Ayubu Mohamed
 #### Android App Developer
-![Android App Developer](https://www.linkedin.com/in/ayubumohamed/overlay/background-image/)
+
 
 
 I'm Ayubu Mohamed from Kenya Country in East Africa.Am Android App Developer who is passionated about help youth to grow in community and also create technology that will elevate people life.Also like to learn new technology like flutter and web technology like Javascript,html and Css.Most of all i enjoy helping people to learn how to code.It is my dream in future years to Launch Android Developers Women in Pwani.
