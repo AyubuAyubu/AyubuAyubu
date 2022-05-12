@@ -1,9 +1,5 @@
-### Hi there 👋
-
-### Hi there 👋, Ayubu Mohamed
-#### Android App Developer
 ![Android App Developer](https://github.com/AyubuAyubu/AyubuAyubu/blob/main/Teal%20And%20White%20Simpel%20Dots%20Marketing%20Assistant%20Linkedln%20Banner.png)
-
+### Hi there 👋,I'm Ayubu Mohamed
 I'm Ayubu Mohamed from Kenya Country in East Africa.Am Android App Developer who is passionated about help youth to grow in community and also create technology that will elevate people life.Also like to learn new technology like flutter and web technology like Javascript,html and Css.Most of all i enjoy helping people to learn how to code.It is my dream in future years to Launch Android Developers Women in Pwani.
 You can check my twitter at https://twitter.com/ayubu_dev or linked in at https://www.linkedin.com/in/ayubumohamed/
 
